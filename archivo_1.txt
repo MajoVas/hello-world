@@ -1,1 +1,3 @@
 Archivo inicial para el proyecto (repositorio)
+
+Este archivo contiene información importante para el desarrollo del curso.
